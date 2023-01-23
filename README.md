@@ -40,6 +40,8 @@ To simplify the user's work, hot keys are also implemented.
  
  ![calc](https://user-images.githubusercontent.com/103432419/212914456-d03d9be4-a56c-4183-a395-0474cc37ed4c.png)
  
+ ![image_2021_06_26T09_05_23_421Z](https://user-images.githubusercontent.com/103432419/214171159-38fa6641-781f-49ad-a27f-c9689b9f09ef.png)
+ 
  4. DESCRIPTION OF ALGORITHMS AND JUSTIFICATION OF THEIR USE
 
 While writing the algorithm for parsing logical expressions, the algorithm for translating expressions into reverse Polish notation was used.
