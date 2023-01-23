@@ -1,7 +1,7 @@
 # Logical-calculator
  The engine is able to parse boolean expressions given as input data when it is run.
  
- Creation of a graphical application for solving logical expressions using Qt4/5, C++.
+ Creation of a graphical application for solving logical expressions using Qt 5.12, C++.
  
  1. UML diagram
  
